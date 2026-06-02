@@ -1,0 +1,24 @@
+{
+  "originHash" : "54733bf20b6ebab76bfdfa75f8abb49de72424602b8d5513a315d8e50510b0e6",
+  "pins" : [
+    {
+      "identity" : "sjuikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moxcomic/SJUIKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "78e8b711af061d2240db791a0b1cab92b19d0306"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
