@@ -186,11 +186,11 @@ open class SJBaseVideoPlayer: NSObject {
 
     // MARK: 工厂 / 版本
 
-    @objc public class func player() -> Self {
+    @objc open class func player() -> Self {
         return self.init()
     }
 
-    public class func version() -> String {
+    open class func version() -> String {
         return "v3.7.5"
     }
 
